@@ -1,4 +1,4 @@
-# Blog Cepe Idiomas 
+# Blog Cepe Idiomas  <img  src="https://www.cepeidiomas.com.br/assets/images/logo-cepe-idiomas-b-en-blanco-1010x292.png" style="width: 20%" align="right">
 
 ## Ideia simples de Pagina Web no estilo de Blog, com o propósito de ajudar no compartilhamento do Concurso de bolsas de intercâmbio na Argentina
 
